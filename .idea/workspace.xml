@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6eab46b8-e159-4d01-8517-bade8bacfe11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ggvyvv">
+      <favorite_root url="file://$PROJECT_DIR$/src/test/java/stepDefinitions/TIC178Step.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/Features/TIC178.feature" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jukVfrjRWg6ChuzeA3gNCCsx7l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../SI/encrypted_Chat-master" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6884817" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: TIC206">
+    <configuration name="Feature: TIC178" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/TIC178.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ggvyvv" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: TIC178" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: TIC203" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/TIC203.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ggvyvv" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: TIC203" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: TIC206" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/TIC206.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ggvyvv" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: TIC206" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Check if the user is able to perform a contact form with invalid input data" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/TIC204.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ggvyvv" />
+      <option name="NAME_FILTER" value="^Check if the user is able to perform a contact form with invalid input data$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Check if the user is able to perform a contact form with invalid input data$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Check if the user is able to perform a contact form with invalid input data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ggvyvv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunning" />
+      <option name="MAIN_CLASS_NAME" value="testRunning.TestRunning" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: TIC206" />
+        <item itemvalue="Cucumber java.Feature: TIC178" />
+        <item itemvalue="Cucumber java.Feature: TIC203" />
+        <item itemvalue="JUnit.TestRunning" />
+        <item itemvalue="Cucumber java.Scenario: Check if the user is able to perform a contact form with invalid input data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eab46b8-e159-4d01-8517-bade8bacfe11" name="Default Changelist" comment="" />
+      <created>1604661388730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604661388730</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="0" width="646" height="680" key="#Project_Structure" timestamp="1605131662442">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="634" y="0" width="646" height="680" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1605131662442" />
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604958392604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1604958392604" />
+    <state x="408" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604692800381">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="408" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1604692800381" />
+    <state x="492" y="35" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1604691371325">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="492" y="35" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1280.680@0.0.1280.680" timestamp="1604691371325" />
+    <state x="369" y="83" key="FileChooserDialogImpl" timestamp="1605785126133">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="369" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605785126133" />
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom" timestamp="1605551161409">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605551161409" />
+    <state width="1237" height="2" key="GridCell.Tab.0.center" timestamp="1605551161409">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605551161409" />
+    <state width="1237" height="2" key="GridCell.Tab.0.left" timestamp="1605551161409">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605551161409" />
+    <state width="1237" height="2" key="GridCell.Tab.0.right" timestamp="1605551161409">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605551161409" />
+    <state width="1237" height="62" key="GridCell.Tab.1.bottom" timestamp="1604959453188">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="62" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604959453188" />
+    <state width="1237" height="62" key="GridCell.Tab.1.center" timestamp="1604959453187">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="62" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1604959453187" />
+    <state width="1237" height="62" key="GridCell.Tab.1.left" timestamp="1604959453187">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="62" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1604959453187" />
+    <state width="1237" height="62" key="GridCell.Tab.1.right" timestamp="1604959453188">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="62" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1604959453188" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1604949183233">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1604949183233" />
+    <state x="366" y="0" width="914" height="680" key="SettingsEditor" timestamp="1605550089999">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="366" y="0" width="914" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605550089999" />
+    <state x="627" y="0" width="653" height="680" key="com.intellij.ide.util.TipDialog" timestamp="1605549848289">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="627" y="0" width="653" height="680" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1605549848289" />
+    <state x="714" y="263" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1604694400953">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="714" y="263" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1604694400953" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1605119295126">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1605119295126" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ggvyvv$TestRunning.ic" NAME="TestRunning Coverage Results" MODIFIED="1604949989670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testRunning.*</FILTER>
+    </SUITE>
+  </component>
+</project>
